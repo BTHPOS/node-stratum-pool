@@ -9,7 +9,7 @@ handles payments, website front-end, database layer, mutli-coin/pool support, au
 etc.. The portal also has an [MPOS](https://github.com/MPOS/php-mpos) compatibility mode so that the it can function as
 a drop-in-replacement for [python-stratum-mining](https://github.com/Crypto-Expert/stratum-mining).
 
-Ming that this software includes 0.5% fee to the developers that can be easily removed by deleting a line of the code. You can do it if you don't want to support the development.
+Mind that this software includes 0.5% fee to the developers that can be easily removed by deleting a line of the code. You can do it if you don't want to support the development.
 
 
 [![Build Status](https://travis-ci.org/zone117x/node-stratum-pool.png?branch=master)](https://travis-ci.org/zone117x/node-stratum-pool)
