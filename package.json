@@ -31,7 +31,7 @@
         "async": "*",
         "base58-native": "*",
         "bignum": "*",
-        "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
+        "bgoldjs-lib": "*",
         "equihashverify": "git+https://github.com/BitcoinGold-mining/equihashverify.git",
         "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
         "promise": "*"
